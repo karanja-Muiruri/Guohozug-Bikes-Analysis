@@ -62,7 +62,54 @@ EDA involved exploring the csv data to answer the following;
 
        - ![012](https://github.com/karanja-Muiruri/Guohozug-Bikes-Analysis/assets/169806532/9a019401-66f4-4664-9fe8-aad6e7a841bd)
        - ![013](https://github.com/karanja-Muiruri/Guohozug-Bikes-Analysis/assets/169806532/5a927a6b-fb67-4c44-90af-dae02098d099)
+       - ![014](https://github.com/karanja-Muiruri/Guohozug-Bikes-Analysis/assets/169806532/fbdcfa11-ce2e-46c0-b9b4-39ac9f7cbc76)
+    
+      
+  I calculated revenue by multiplying riders by price and also calculated profit by taking revenue minus (riders*COGS).
+  
+  - ![018](https://github.com/karanja-Muiruri/Guohozug-Bikes-Analysis/assets/169806532/3d0fdcf3-eeaf-46eb-a68e-ba3934808126)
 
+
+3. Connecting Power BI to the Bicycles_Data Database
+
+    Involves getting data from SQL Server and adding the final MSSMS query.
+     -  ![0155](https://github.com/karanja-Muiruri/Guohozug-Bikes-Analysis/assets/169806532/a950124b-e460-42e3-bccc-07fc6742361b)
+     -  ![019](https://github.com/karanja-Muiruri/Guohozug-Bikes-Analysis/assets/169806532/382febcd-dba2-433e-81f4-8358553aba05)
+  
+4. Building the dashboard in Power BI
+
+    The various steps followed to conclusion.
+
+     - I did use a blank query to create a Date table and create a relationship ON date.
+
+         - ![029](https://github.com/karanja-Muiruri/Guohozug-Bikes-Analysis/assets/169806532/79f05bda-9415-4324-8f73-3c479143a68f)
+         - ![030](https://github.com/karanja-Muiruri/Guohozug-Bikes-Analysis/assets/169806532/c69fdb8d-2dda-4135-9d4c-3325b4b76d99)
+         - ![032](https://github.com/karanja-Muiruri/Guohozug-Bikes-Analysis/assets/169806532/aeb1d653-e089-4d50-a329-016897625729)
+      
+     - The building of the dashboard to conclusion.      
+
+         -  ![033](https://github.com/karanja-Muiruri/Guohozug-Bikes-Analysis/assets/169806532/67e76a4b-b34a-4b40-94c0-72de8dd5d123)
+         -  ![034](https://github.com/karanja-Muiruri/Guohozug-Bikes-Analysis/assets/169806532/f963b17d-624b-4e0f-aeda-1b1d86388ff7)
+         -  ![035](https://github.com/karanja-Muiruri/Guohozug-Bikes-Analysis/assets/169806532/cb7b6e3b-5219-41d7-8a6a-a09bddfaa69d)
+         -  ![036](https://github.com/karanja-Muiruri/Guohozug-Bikes-Analysis/assets/169806532/4cd3f61c-9d31-41b9-b9b5-9b15f4ffb984)
+
+
+
+## Recommendation
+
+  1. Conservative Increase;
+       Considering the substantial increase last year, a more conservative increase might be prudent to avoid hitting a price ceiling where demand starts to drop. An increase in the   
+       range of 10-15% could test the market's response without risking a significant loss of customers.
+
+  3. Price Setting;
+       If the price in 2022 was $4.99, a 10% increase would
+     
+
+
+   
+
+
+   
 
 
      
