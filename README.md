@@ -43,7 +43,8 @@ EDA involved exploring the csv data to answer the following;
   1. Creating a Database;
 
     I created a new database in Microsoft SQL Server Management Studio called Bicycles_Data;
-      ![002](https://github.com/karanja-Muiruri/Guohozug-Bikes-Analysis/assets/169806532/68467922-b3b7-4fb9-a2ba-0d130e3f3a07)
+     ![002](https://github.com/karanja-Muiruri/Guohozug-Bikes-Analysis/assets/169806532/35f495e5-1d17-4d67-9f3a-59f319e0eb32)
+
 
      
 
